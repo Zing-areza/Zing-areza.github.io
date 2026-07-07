@@ -1,0 +1,4 @@
+nohup: ignoring input
+/data/data/com.termux/files/usr/bin/mysqld_safe: Deprecated program name. It will be removed in a future release, use 'mariadbd-safe' instead
+260706 15:15:11 mysqld_safe Logging to '/data/data/com.termux/files/usr/var/lib/mysql/localhost.err'.
+260706 15:15:12 mysqld_safe A mysqld process already exists

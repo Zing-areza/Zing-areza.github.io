@@ -1,0 +1,62 @@
+nohup: ignoring input
+[Mon Jul  6 15:15:27 2026] PHP 8.5.1 Development Server (http://localhost:8080) started
+[Mon Jul  6 15:16:33 2026] 127.0.0.1:42170 Accepted
+[Mon Jul  6 15:16:33 2026] 127.0.0.1:42174 Accepted
+[Mon Jul  6 15:16:33 2026] 127.0.0.1:42170 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Jul  6 15:16:33 2026] 127.0.0.1:42170 Closing
+[Mon Jul  6 15:16:33 2026] 127.0.0.1:42174 Closed without sending a request; it was probably just an unused speculative preconnection
+[Mon Jul  6 15:16:33 2026] 127.0.0.1:42174 Closing
+[Mon Jul  6 15:16:34 2026] 127.0.0.1:42192 Accepted
+[Mon Jul  6 15:16:34 2026] 127.0.0.1:42192 [200]: GET /favicon.ico
+[Mon Jul  6 15:16:34 2026] 127.0.0.1:42192 Closing
+[Mon Jul  6 15:18:40 2026] 127.0.0.1:42366 Accepted
+[Mon Jul  6 15:18:40 2026] 127.0.0.1:42366 [200]: GET /
+[Mon Jul  6 15:18:40 2026] 127.0.0.1:42366 Closing
+[Mon Jul  6 15:18:41 2026] 127.0.0.1:42370 Accepted
+[Mon Jul  6 15:18:41 2026] 127.0.0.1:42370 [200]: GET /favicon.ico
+[Mon Jul  6 15:18:41 2026] 127.0.0.1:42370 Closing
+[Mon Jul  6 15:19:13 2026] 127.0.0.1:42388 Accepted
+[Mon Jul  6 15:19:13 2026] 127.0.0.1:42388 [200]: GET /
+[Mon Jul  6 15:19:13 2026] 127.0.0.1:42388 Closing
+[Mon Jul  6 15:19:13 2026] 127.0.0.1:42392 Accepted
+[Mon Jul  6 15:19:13 2026] 127.0.0.1:42392 [200]: GET /favicon.ico
+[Mon Jul  6 15:19:13 2026] 127.0.0.1:42392 Closing
+[Mon Jul  6 15:19:19 2026] 127.0.0.1:42400 Accepted
+[Mon Jul  6 15:19:19 2026] 127.0.0.1:42400 [200]: GET /
+[Mon Jul  6 15:19:19 2026] 127.0.0.1:42400 Closing
+[Mon Jul  6 15:19:20 2026] 127.0.0.1:42404 Accepted
+[Mon Jul  6 15:19:20 2026] 127.0.0.1:42404 [200]: GET /favicon.ico
+[Mon Jul  6 15:19:20 2026] 127.0.0.1:42404 Closing
+[Mon Jul  6 15:19:29 2026] 127.0.0.1:42414 Accepted
+[Mon Jul  6 15:19:29 2026] 127.0.0.1:42414 [200]: GET /
+[Mon Jul  6 15:19:29 2026] 127.0.0.1:42414 Closing
+[Mon Jul  6 15:19:30 2026] 127.0.0.1:42418 Accepted
+[Mon Jul  6 15:19:30 2026] 127.0.0.1:42418 [200]: GET /
+[Mon Jul  6 15:19:30 2026] 127.0.0.1:42418 Closing
+[Mon Jul  6 15:19:30 2026] 127.0.0.1:42422 Accepted
+[Mon Jul  6 15:19:30 2026] 127.0.0.1:42422 [200]: GET /favicon.ico
+[Mon Jul  6 15:19:30 2026] 127.0.0.1:42422 Closing
+[Mon Jul  6 15:19:31 2026] 127.0.0.1:42426 Accepted
+[Mon Jul  6 15:19:31 2026] 127.0.0.1:42426 [200]: GET /favicon.ico
+[Mon Jul  6 15:19:31 2026] 127.0.0.1:42426 Closing
+[Mon Jul  6 15:19:38 2026] 127.0.0.1:42430 Accepted
+[Mon Jul  6 15:19:38 2026] 127.0.0.1:42430 [200]: GET /favicon.ico
+[Mon Jul  6 15:19:38 2026] 127.0.0.1:42430 Closing
+[Mon Jul  6 15:19:41 2026] 127.0.0.1:42434 Accepted
+[Mon Jul  6 15:19:41 2026] 127.0.0.1:42434 [200]: GET /favicon.ico
+[Mon Jul  6 15:19:41 2026] 127.0.0.1:42434 Closing
+[Mon Jul  6 15:19:42 2026] 127.0.0.1:42438 Accepted
+[Mon Jul  6 15:19:42 2026] 127.0.0.1:42438 [200]: GET /favicon.ico
+[Mon Jul  6 15:19:42 2026] 127.0.0.1:42438 Closing
+[Mon Jul  6 15:19:42 2026] 127.0.0.1:42442 Accepted
+[Mon Jul  6 15:19:42 2026] 127.0.0.1:42442 [200]: GET /favicon.ico
+[Mon Jul  6 15:19:42 2026] 127.0.0.1:42442 Closing
+[Mon Jul  6 15:19:43 2026] 127.0.0.1:42446 Accepted
+[Mon Jul  6 15:19:43 2026] 127.0.0.1:42446 [200]: GET /favicon.ico
+[Mon Jul  6 15:19:43 2026] 127.0.0.1:42446 Closing
+[Mon Jul  6 15:20:06 2026] 127.0.0.1:42450 Accepted
+[Mon Jul  6 15:20:06 2026] 127.0.0.1:42450 [302]: POST /
+[Mon Jul  6 15:20:06 2026] 127.0.0.1:42450 Closing
+[Mon Jul  6 15:21:37 2026] 127.0.0.1:42494 Accepted
+[Mon Jul  6 15:21:37 2026] 127.0.0.1:42494 [302]: POST /
+[Mon Jul  6 15:21:37 2026] 127.0.0.1:42494 Closing
